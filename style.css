@@ -1,0 +1,19 @@
+.maindiv{
+    border: 3px solid green;
+    height: 100vh;
+    width: 100%;
+}
+.child{
+    border: 2px solid red;
+    background-color: coral;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    margin-top: 300px;
+    float: left;
+    text-align: center;
+}
+#c1
+{
+    margin-left: 500px;
+}
